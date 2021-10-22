@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllfadirCorrea
-- 👀 I’m interested in ... web frameworks
-- 🌱 I’m currently learning ... Laravel and Angular
+- 👀 I’m interested in web frameworks, app development and python for data analitycs
+- 🌱 I’m currently learning ... Kotlin, PHP, And JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
